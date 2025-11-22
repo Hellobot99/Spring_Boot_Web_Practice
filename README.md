@@ -1,4 +1,4 @@
-# Spring Boot Web Practice Project
+# Spring Boot Web Practice
 
 Spring Boot와 JSP를 활용하여 웹 애플리케이션의 핵심 기능인 **사용자 인증(Authentication)** 및 **인가(Authorization)**, 게시판 기초 구조를 구현한 학습용 프로젝트입니다.
 **Spring Security**를 적용하여 안전한 로그인/회원가입 로직을 구축하였으며, **MyBatis(Mapper)** 패턴을 사용하여 데이터베이스와 연동하였습니다.
